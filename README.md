@@ -10,8 +10,8 @@ During this project I have learnt few things :
 <p> Generation of random numbers </p>
 <p> Generation of random matrixs </p>
 <p> Read and write a matrix in a file </p>
---> Read matrixs and comment from a file
---> Dynamic allocation of matrixs
---> Computation of matrix (transposition, basic operations...)
---> Display a matrix in a terminal
-And so more....
+<p> Read matrixs and comment from a file </p>
+<p> Dynamic allocation of matrixs </p>
+<p> Computation of matrix (transposition, basic operations...) </p>
+<p> Display a matrix in a terminal </p>
+<p> And so more.... </p>
