@@ -4,7 +4,7 @@
 
 -----------------------------------------------------------------------------------------------------------------------------
 
-**Little project in C (a lot of pointers used!) about matrix (dynamic allocation and computation of matrixs using terminal input in Linux)**
+<h2> **Little project in C (a lot of pointers used!) about matrix (dynamic allocation and computation of matrixs using terminal input in Linux)** </h2>
 
 During this project I have learnt few things : 
 
