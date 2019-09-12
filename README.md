@@ -1,10 +1,10 @@
-# Matrix_Computation
+## Matrix_Computation
 
-<h2> Computer Science project in C on Matrixs </h2>	
+### Computer Science project in C on Matrixs 
 
 -----------------------------------------------------------------------------------------------------------------------------
 
-<h2> Little project in C (a lot of pointers used!) about matrix (dynamic allocation and computation of matrixs using terminal input in Linux) </h2>
+### Little project in C (a lot of pointers used!) about matrix (dynamic allocation and computation of matrixs using terminal input in Linux in order to optimize computation etc) ###
 
  **During this project I have learnt few things :**
  
